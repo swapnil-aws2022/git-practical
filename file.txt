@@ -1,2 +1,3 @@
 sample file
 this is remote feature branch operation
+checking branch protection rule
