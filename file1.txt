@@ -1,4 +1,1 @@
-Hello World-1a
-Hello World-1b
-Hello World - 2nd commit
-adding this in main branch only
+This is conflict resolve
